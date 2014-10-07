@@ -30,7 +30,11 @@
       "peppers": "NO",
       "mayo_packets": "NO",
       "mustard_packets": "NO",
-    }
+      "oregeno": "NO",
+      "onions": "NO",
+      "lettuce": "NO",
+      "vinaigrette": "NO",
+    },
     "extras": {
         "avacodo": "NO",
         "bacon": "NO",
